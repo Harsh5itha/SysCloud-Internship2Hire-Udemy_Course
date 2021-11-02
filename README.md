@@ -57,24 +57,21 @@ Link - <a href ="https://harsh5itha.github.io/Drum-kit/">Javascript and DOM Mani
     ToDo List:<br>
     Udemy course - The Complete 2021 Web Development Bootcamp : task 4 - <a href="https://github.com/Harsh5itha/TodoList">repository</a> 
 
-13. Section 29:<br>
+13. Section 29 and 30:<br>
     Deploy App:<br>
     Udemy course - The Complete 2021 Web Development Bootcamp : Web Site - <a href="https://aqueous-caverns-42512.herokuapp.com/">Complete ToDo List App</a> 
-
-14. Section 30:<br>
-    Boss level 4: <br>
-    Udemy course - The Complete 2021 Web Development Bootcamp : Boss Level 4 - <a href="https://github.com/Harsh5itha/TodoList">repository</a>
+    Udemy course - The Complete 2021 Web Development Bootcamp : ToDo - <a href="https://github.com/Harsh5itha/TodoList">repository</a>
    
-15. Section 31:<br>
+14. Section 31:<br>
     Restful: <br>
     Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/RESTful-API">repository</a> 
    
-16. Section 32:<br>
+15. Section 32:<br>
     Authentication ans Security:<br>
     Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/Secrets">repository</a> <br>
     Udemy course - The Complete 2021 Web Development Bootcamp : task 5 - <a href="https://github.com/Harsh5itha/SecretsApp">Secrets App</a> 
    
-17. Section 33:<br>
+16. Section 33:<br>
     React.js:<br>
     Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/React.js_Sandbox_Works">repository 1</a> <br>
     Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/react.js">repository 2</a> <br>
