@@ -1,24 +1,25 @@
 # SysCloud-Internship2Hire-Udemy_Course
 <a href="https://www.udemy.com/certificate/UC-13388f16-ff72-47e7-894a-8bf8acafefdd/"> Certificate </a>
 
+
 1. Section 1 to 5: <br>
 CV-basic:<br>
-Udemy course - The Complete 2021 Web Development Bootcamp : task 1 - <a href="https://github.com/Harsh5itha/CV-basic">repository</a>
+Udemy course - The Complete 2021 Web Development Bootcamp : task 1 - <a href="https://github.com/Harsh5itha/CV-basic">repository</a> <br>
   Project Link - <a href="https://harsh5itha.github.io/CV-basic/"> CSS-CV </a>
 
 2. Section 6 to 11: <br>
 Bootstrap-TinDog: <br>
-Udemy course - The Complete 2021 Web Development Bootcamp : task 2 - <a href="https://github.com/Harsh5itha/TinDog">repository</a>
+Udemy course - The Complete 2021 Web Development Bootcamp : task 2 - <a href="https://github.com/Harsh5itha/TinDog">repository</a><br>
 Project Link - <a href="https://harsh5itha.github.io/TinDog/">Bootstrap-TinDog</a>
 
 3. Section 12: <br>
   Boss level 1:<br>
-  Udemy course - The Complete 2021 Web Development Bootcamp : Boss Level 1 - <a href="https://github.com/Harsh5itha/Boss-Level-1">repository</a>
+  Udemy course - The Complete 2021 Web Development Bootcamp : Boss Level 1 - <a href="https://github.com/Harsh5itha/Boss-Level-1">repository</a><br>
   link - <a href="https://harsh5itha.github.io/Boss-Level-1/"> Java Script</a>
 
 4. Section 13: <br>
   JS and DOM - Drum Kit<br>
-  Udemy course - The Complete 2021 Web Development Bootcamp : task 3 - <a href="https://github.com/Harsh5itha/Drum-kit">repository</a>
+  Udemy course - The Complete 2021 Web Development Bootcamp : task 3 - <a href="https://github.com/Harsh5itha/Drum-kit">repository</a><br>
 Link - <a href ="https://harsh5itha.github.io/Drum-kit/">Javascript and DOM Manipulation-Drum Kit</a>
 
 5. Section 14: <br>
@@ -27,7 +28,7 @@ Link - <a href ="https://harsh5itha.github.io/Drum-kit/">Javascript and DOM Mani
 
 6. Section 15: <br>
    Boss level 2: <br>
-   Udemy course - The Complete 2021 Web Development Bootcamp : Boss Level 2 - <a href="https://github.com/Harsh5itha/Boss-Level-2">repository</a>
+   Udemy course - The Complete 2021 Web Development Bootcamp : Boss Level 2 - <a href="https://github.com/Harsh5itha/Boss-Level-2">repository</a><br>
    Link - <a href = "https://harsh5itha.github.io/Boss-Level-2/">The Simon Game</a>
 
 7. Section 17 to 19:<br>
@@ -36,12 +37,12 @@ Link - <a href ="https://harsh5itha.github.io/Drum-kit/">Javascript and DOM Mani
    
 8. Section 20:    <br>
    API:<br>
-   Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/API-Notes">repository 1</a> 
+   Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/API-Notes">repository 1</a> <br>
    <a href="https://github.com/Harsh5itha/API-SignUpPage">repository 2</a>
  
 9. Section 22:<br>
    EJS:<br>
-   Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/EJS-Notes">repository 1</a> 
+   Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/EJS-Notes">repository 1</a> <br>
    <a href="https://github.com/Harsh5itha/ToDo-List">repository 2 - todo App</a>
    
 10. Section 23:<br>
@@ -70,12 +71,12 @@ Link - <a href ="https://harsh5itha.github.io/Drum-kit/">Javascript and DOM Mani
    
 16. Section 32:<br>
     Authentication ans Security:<br>
-    Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/Secrets">repository</a> 
+    Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/Secrets">repository</a> <br>
     Udemy course - The Complete 2021 Web Development Bootcamp : task 5 - <a href="https://github.com/Harsh5itha/SecretsApp">Secrets App</a> 
    
 17. Section 33:<br>
     React.js:<br>
-    Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/React.js_Sandbox_Works">repository 1</a> 
-    Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/react.js">repository 2</a> 
-    Udemy course - The Complete 2021 Web Development Bootcamp : Keeper App - <a href="https://github.com/Harsh5itha/react.js">Keeper App</a> 
+    Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/React.js_Sandbox_Works">repository 1</a> <br>
+    Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/react.js">repository 2</a> <br>
+    Udemy course - The Complete 2021 Web Development Bootcamp : Keeper App - <a href="https://github.com/Harsh5itha/react.js">Keeper App</a> <br>
     Udemy course - The Complete 2021 Web Development Bootcamp : Props - <a href="https://github.com/Harsh5itha/React_Props_Contact_Cards">Contact Cards</a> 
