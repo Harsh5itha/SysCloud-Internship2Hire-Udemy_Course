@@ -59,7 +59,7 @@ Link - <a href ="https://harsh5itha.github.io/Drum-kit/">Javascript and DOM Mani
 
 13. Section 29 and 30:<br>
     Deploy App:<br>
-    Udemy course - The Complete 2021 Web Development Bootcamp : Web Site - <a href="https://aqueous-caverns-42512.herokuapp.com/">Complete ToDo List App</a> 
+    Udemy course - The Complete 2021 Web Development Bootcamp : Web Site - <a href="https://aqueous-caverns-42512.herokuapp.com/">Complete ToDo List App</a><br> 
     Udemy course - The Complete 2021 Web Development Bootcamp : ToDo - <a href="https://github.com/Harsh5itha/TodoList">repository</a>
    
 14. Section 31:<br>
