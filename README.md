@@ -38,12 +38,12 @@ Link - <a href ="https://harsh5itha.github.io/Drum-kit/">Javascript and DOM Mani
 8. Section 20:    <br>
    API:<br>
    Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/API-Notes">repository 1</a> <br>
-   <a href="https://github.com/Harsh5itha/API-SignUpPage">repository 2</a>
+   Udemy course - The Complete 2021 Web Development Bootcamp : Sign Up Page - <a href="https://github.com/Harsh5itha/API-SignUpPage">repository 2</a>
  
 9. Section 22:<br>
    EJS:<br>
    Udemy course - The Complete 2021 Web Development Bootcamp : Notes - <a href="https://github.com/Harsh5itha/EJS-Notes">repository 1</a> <br>
-   <a href="https://github.com/Harsh5itha/ToDo-List">repository 2 - todo App</a>
+   Udemy course - The Complete 2021 Web Development Bootcamp : App - <a href="https://github.com/Harsh5itha/ToDo-List">repository 2 - todo App</a>
    
 10. Section 23:<br>
     Boss level 3: <br>
